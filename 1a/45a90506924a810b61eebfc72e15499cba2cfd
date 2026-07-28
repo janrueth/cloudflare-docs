@@ -1,0 +1,19 @@
+.github/CODEOWNERS
+  s_124848a38c257e::t_381a264bb9870f 318
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1a45a90506924a810b61eebfc72e15499cba2cfd",
+  "prompts": {},
+  "sessions": {
+    "s_124848a38c257e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_056a43299ffeeWEirFBlp5rSgL",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Jan Rüth <1324490+janrueth@users.noreply.github.com>"
+    }
+  }
+}
