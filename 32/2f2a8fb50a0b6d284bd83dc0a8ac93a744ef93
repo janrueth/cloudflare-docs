@@ -1,0 +1,17 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "322f2a8fb50a0b6d284bd83dc0a8ac93a744ef93",
+  "prompts": {},
+  "sessions": {
+    "s_124848a38c257e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_056a43299ffeeWEirFBlp5rSgL",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Jan Rüth <1324490+janrueth@users.noreply.github.com>"
+    }
+  }
+}
