@@ -1,0 +1,43 @@
+src/content/docs/api-shield/security/sequence-mitigation/index.mdx
+  s_f50e59dbba2243::t_d30a71958d8783 13,34,47,62,70,90
+src/content/docs/api-shield/security/graphql-protection/index.mdx
+  s_f50e59dbba2243::t_7b3376cda08163 13,23,26
+src/content/partials/api-shield/required-session-identifiers.mdx
+  s_f50e59dbba2243::t_42be6e377b4f29 5
+src/content/partials/api-shield/session-identifiers.mdx
+  s_f50e59dbba2243::t_8e0283aa634d24 5,11,13
+src/content/docs/api-shield/security/jwt-validation/api.mdx
+  s_f50e59dbba2243::t_367f4e6d69efdf 27,32-38,46-48,58-59,62,64,257,322-323,332-334,337-338,352-353,360,433,443-444,449,454,460
+src/content/docs/api-shield/security/sequence-mitigation/custom-rules.mdx
+  s_f50e59dbba2243::t_30e884e1c1340d 12,17,20,28,45,52-53,57-59,62,69-71,73
+src/content/partials/api-shield/mtls-create-rule.mdx
+  s_f50e59dbba2243::t_3eb72c2112c1a3 5,18
+src/content/docs/api-shield/security/graphql-protection/api.mdx
+  s_f50e59dbba2243::t_7674cbee944e96 8-9,161
+src/content/docs/api-shield/security/jwt-validation/transform-rules.mdx
+  s_f50e59dbba2243::t_629c73c94fcb25 2,4,11,16,18,20,30,32,47
+src/content/partials/api-shield/label-methodology.mdx
+  s_f50e59dbba2243::t_c799bff1bb522c 5-8
+src/content/docs/api-shield/security/sequence-analytics.mdx
+  s_f50e59dbba2243::t_ea5bfc7864219c 11,50
+src/content/docs/api-shield/security/sequence-mitigation/api.mdx
+  s_f50e59dbba2243::t_ed51f37ee0d62a 15,17,19-29,39-48,50,64,79-81,91-92,107
+src/content/partials/api-shield/rate-limit-user.mdx
+  s_f50e59dbba2243::t_473e0c85173cdb 5,7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "866ce498de45401817303f47c51f90f502885089",
+  "prompts": {},
+  "sessions": {
+    "s_f50e59dbba2243": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f37925f21fferjBjOg9bYCfBiA",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Jan Rüth <1324490+janrueth@users.noreply.github.com>"
+    }
+  }
+}
