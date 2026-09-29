@@ -1,0 +1,81 @@
+src/content/docs/api-shield/get-started.mdx
+  s_f50e59dbba2243::t_06f1296fab5a5a 58,64,68
+src/content/docs/api-shield/management-and-monitoring/api-routing.mdx
+  s_f50e59dbba2243::t_23973a8c06ace9 22,30,44,57
+src/content/docs/api-shield/management-and-monitoring/developer-portal.mdx
+  s_f50e59dbba2243::t_a1468aca014af2 30-31
+src/content/docs/api-shield/management-and-monitoring/endpoint-labels.mdx
+  s_f50e59dbba2243::t_9c72b8d7ca16d6 16,18,20,28-30,70,72,74,78,84,86,91,103,107,198,233
+src/content/docs/api-shield/management-and-monitoring/endpoint-management/index.mdx
+  s_f50e59dbba2243::t_f7c153b4b28b47 15,159,169
+src/content/docs/api-shield/management-and-monitoring/endpoint-management/schema-learning.mdx
+  s_f50e59dbba2243::t_a7c4b6a9b01b58 49,56
+src/content/docs/api-shield/plans.mdx
+  s_921b9b984dd527::t_f47ada20b2caa3 17-25
+src/content/docs/api-shield/security/authentication-posture.mdx
+  s_f50e59dbba2243::t_181a90d7f5df74 15,17,19,23,33,47-48
+src/content/docs/api-shield/security/bola-vulnerability-detection.mdx
+  s_f50e59dbba2243::t_66cf87d4b21fdc 26,31,40,45,53,60-61,92-96,98,122
+src/content/docs/api-shield/security/graphql-protection/api.mdx
+  s_f50e59dbba2243::t_d7421e5af54534 8-9,161
+src/content/docs/api-shield/security/graphql-protection/index.mdx
+  s_f50e59dbba2243::t_ecb2f440e88257 13,23,26
+src/content/docs/api-shield/security/jwt-validation/transform-rules.mdx
+  s_f50e59dbba2243::t_793347121e018f 2,4,11,16,18,20,30,32,47
+src/content/docs/api-shield/security/mtls/configure.mdx
+  s_f50e59dbba2243::t_b4aa81fc844e78 18,50
+src/content/docs/api-shield/security/schema-validation/api.mdx
+  s_f50e59dbba2243::t_59b773d448eefe 27-29,39,44,46,55,62-63,65-67,79,82-83,100,107-109,114-123,143,145,147,149-173,177,179,185-203
+src/content/docs/api-shield/security/sequence-analytics.mdx
+  s_f50e59dbba2243::t_fe9b9da0e7f8a7 11,50
+src/content/docs/api-shield/security/sequence-mitigation/api.mdx
+  s_f50e59dbba2243::t_588327ef7dff21 15,17,19-29,39-48,50,64,79-81,91-92,107
+src/content/docs/api-shield/security/sequence-mitigation/custom-rules.mdx
+  s_f50e59dbba2243::t_27805c8179ef8e 12,17,20,28,45,52-53,57-59,62,69-71,73
+src/content/docs/api-shield/security/sequence-mitigation/index.mdx
+  s_f50e59dbba2243::t_c9dd63c6455cb9 13,34,47,62,70,90
+src/content/docs/api-shield/security/sequence-mitigation/manage-sequence-rules.mdx
+  s_f50e59dbba2243::t_0408677454f159 27-28,40
+src/content/docs/api-shield/security/volumetric-abuse-detection.mdx
+  s_f50e59dbba2243::t_841e7608ea31b3 13,27,29,35,37,39,43,47,50,54,77
+src/content/docs/api-shield/security/vulnerability-scanner.mdx
+  s_f50e59dbba2243::t_d54206c1ad7e6a 207-234,237,248-258,265-275,282-292,326
+src/content/glossary/api-shield.yaml
+  s_f50e59dbba2243::t_e6d15dc1c0a596 18
+src/content/partials/api-shield/label-methodology.mdx
+  s_f50e59dbba2243::t_974fb5dc42c521 5-8
+src/content/partials/api-shield/labels-add.mdx
+  s_f50e59dbba2243::t_5f2da1f8337ffe 7,11
+src/content/partials/api-shield/mtls-create-rule.mdx
+  s_f50e59dbba2243::t_dd37466867a85d 5,18
+src/content/partials/api-shield/rate-limit-user.mdx
+  s_f50e59dbba2243::t_3a20c37cf8ad0f 5,7,9,11,13,17,19,22,24-25
+src/content/partials/api-shield/required-session-identifiers.mdx
+  s_f50e59dbba2243::t_dea7fc6167e32b 5
+src/content/partials/api-shield/session-identifiers.mdx
+  s_f50e59dbba2243::t_768c88c7d6719d 5,11,13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "dd94e8c223e2bbee7c6637fafe316b91e9d6f290",
+  "prompts": {},
+  "sessions": {
+    "s_921b9b984dd527": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f14080fc2ffe10bkkYD2GqRpFe",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Jan Rüth <1324490+janrueth@users.noreply.github.com>"
+    },
+    "s_f50e59dbba2243": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f37925f21fferjBjOg9bYCfBiA",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Jan Rüth <1324490+janrueth@users.noreply.github.com>"
+    }
+  }
+}
